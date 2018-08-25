@@ -26,7 +26,7 @@
                         <span class="media-heading">American time:{{item.date}}</span>
                         <div class="content">
                             {{item.originalText}}
-                            <img :src="item.imgUrl">
+                            <img v-if="item.imgUrl!=''" :src="item.imgUrl">
                             <!-- <video :src="item.videoUrl"></video> -->
                         </div>
                         <div class="translate">
