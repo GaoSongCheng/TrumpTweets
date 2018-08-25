@@ -34,7 +34,7 @@ window.onload = function () {
                     id:'11',
                     originalText:'I spoke with Governor David Ige of Hawaii today to express our full support for the people of Hawaii as the State is impacted by #HurricaneLane. The Federal Government is fully committed to helping the people of Hawaii.',
                     translateText:'我今天与夏威夷州州长大卫·伊格交谈，表达了我们对夏威夷人民的全力支持，因为该州受到了#HurricaneLane的影响。 联邦政府完全致力于帮助夏威夷人民。',
-                    imgUrl:'https://pbs.twimg.com/media/DlZ53LVW4AARwWg.jpg',
+                    imgUrl:'./img/tweets-img/11.jpg',
                     date:'2018-08-24'
                 },
                 {
@@ -96,21 +96,21 @@ window.onload = function () {
                     id:'2',
                     originalText:'I have authorized an emergency disaster declaration to provide Hawaii the necessary support ahead of #HurricaneLane. Our teams are closely coordinating with the state and local authorities. You are in our thoughts!',
                     translateText:'我已授权紧急灾难声明，以便在#HurricaneLane之前为夏威夷提供必要的支持。 我们的团队正在与州和地方当局密切协调。 你在我们的想法！',
-                    imgUrl:'https://pbs.twimg.com/card_img/1032527139512311808/10uefYpf?format=jpg&name=600x314',
+                    imgUrl:'./img/tweets-img/2.jpg',
                     date:'2018-08-23'
                 },
                 {
                     id:'1',
                     originalText:'It was my great honor to host the Foreign Investment Risk Review Modernization Act Roundtable today at the @WhiteHouse!',
                     translateText:'我很荣幸今天在@WhiteHouse举办外国投资风险评估现代化法案圆桌会议！',
-                    imgUrl:'https://pbs.twimg.com/ext_tw_video_thumb/1032690565547282433/pu/img/ZI-GAJ64qqvhlmWg.jpg',
+                    imgUrl:'./img/tweets-img/1.jpg',
                     date:'2018-08-23'
                 },
                 {
                     id:'0',
                     originalText:'Thank you West Virginia. I love you!',
                     translateText:'谢谢西弗吉尼亚州。 我爱你！',
-                    imgUrl:'https://pbs.twimg.com/media/DlKiPP7WsAAxydA.jpg',
+                    imgUrl:'./img/tweets-img/0.jpg',
                     date:'2018-08-21'
                 },
             ]
