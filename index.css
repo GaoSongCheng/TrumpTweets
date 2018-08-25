@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(230, 236, 240);
+}
+
+.container{
+    background-color: rgb(230, 236, 240);
+}
+
+.container .media .media-left img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.container .media .media-body .media-heading,
+.container .media .media-body .media-heading-date{
+    font-size: 14px;
+    color: #657786;
+}
+
+.container .media .media-body .media-heading-name{
+    word-break: break-all;
+    color: #14171a;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.container .media .media-body .media-heading-verified{
+    color: rgb(29, 161, 242);
+}
+
+.container .media .media-body .content{
+    font-size: 14px;
+    line-height: 20px;
+}
+.container .media .media-body .content img{
+    margin:8px 0 0 0;
+    width: 100%;
+    border-radius: 10px;    
+}
+.container .media .media-body .translate{
+    margin-top: 10px;    
+}
+
+.tweet-item{
+    border-bottom: 1px solid #ccc;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fff;
+}
+
+.tweet-item:hover{
+    background-color: #f5f8fa;
+}
+
+
+
+
+
+
+
+
+
+
+

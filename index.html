@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="lib/bootstrap-3.3.6/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./index.css">    
+    <script src="lib/vue.min.js"></script>
+</head>
+<body>
+    <div class="container" id="container">
+        <div class="row tweet-row" v-for="item in content" :key="item.id">
+            <div class="col-xs-8 col-xs-offset-2 tweet-item">
+                <div class="media">
+                    <div class="media-left">
+                        <a href="#">
+                            <img class="media-object" src="./img/trump-avatar.jpg" alt="...">
+                        </a>
+                    </div>
+                    <div class="media-body">
+                        <span class="media-heading-name">Donald J. Trump</span>
+                        <span class="media-heading-verified glyphicon glyphicon-ok"></span>
+                        <span class="media-heading">&nbsp;@realDonaldTrump&nbsp;</span>
+                        <span class="media-heading-date glyphicon glyphicon-share-alt"></span>
+                        <span class="media-heading">American time:{{item.date}}</span>
+                        <div class="content">
+                            {{item.originalText}}
+                            <img :src="item.imgUrl">
+                            <!-- <video :src="item.videoUrl"></video> -->
+                        </div>
+                        <div class="translate">
+                            Google译文:{{item.translateText}}
+                        </div>                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
