@@ -9,6 +9,22 @@ body{
 
 .container{
     background-color: rgb(230, 236, 240);
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.container .media{
+    padding: 0 40px;
+    overflow: hidden;
+}
+
+.container .media .media-left{
+    float: left;
+    width: 7%;
+}
+.container .media .media-body{
+    float: right;
+    width: 93%;
 }
 
 .container .media .media-left img{

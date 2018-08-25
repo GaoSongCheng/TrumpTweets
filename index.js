@@ -110,7 +110,8 @@ window.onload = function () {
                     id:'0',
                     originalText:'Thank you West Virginia. I love you!',
                     translateText:'谢谢西弗吉尼亚州。 我爱你！',
-                    imgUrl:'https://pbs.twimg.com/media/DlKiPP7WsAAxydA.jpg'
+                    imgUrl:'https://pbs.twimg.com/media/DlKiPP7WsAAxydA.jpg',
+                    date:'2018-08-21'
                 },
             ]
         },
