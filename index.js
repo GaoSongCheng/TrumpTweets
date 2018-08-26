@@ -10,6 +10,60 @@ window.onload = function () {
             },
             content:[
                 {
+                    id:'23',
+                    originalText:'My deepest sympathies and respect go out to the family of Senator John McCain. Our hearts and prayers are with you!',
+                    translateText:'我对参议员约翰麦凯恩的家人表示最深切的同情和敬意。 我们的心和祈祷与你同在！',
+                    imgUrl:''
+                },
+                {
+                    id:'22',
+                    originalText:'Stock Market hit all time high on Friday. Congratulations U.S.A.!',
+                    translateText:'股市周五创下历史新高。 祝贺美国！',
+                    imgUrl:''
+                },
+				{
+                    id:'21',
+                    originalText:'Our relationship with Mexico is getting closer by the hour. Some really good people within both the new and old government, and all working closely together....A big Trade Agreement with Mexico could be happening soon!',
+                    translateText:'我们与墨西哥的关系日益紧密。 新老政府中的一些非常优秀的人，并且所有人都密切合作......与墨西哥的大贸易协议很快就会发生！',
+                    imgUrl:''
+                },
+                {
+                    id:'20',
+                    originalText:'“The FBI looked at less than 1%” of Crooked’s Emails!',
+                    translateText:'“联邦调查局看起来不到1％”的克罗克的电子邮件！',
+                    imgUrl:''
+                },
+                {
+                    id:'19',
+                    originalText:'“The FBI only looked at 3000 of 675,000 Crooked Hillary Clinton Emails.” They purposely didn’t look at the disasters. This news is just out. @FoxNews',
+                    translateText:'“联邦调查局只看了675,000个弯曲的希拉里克林顿电子邮件中的3000个。”他们故意不看灾难。 这个消息刚刚结束。 @福克斯新闻',
+                    imgUrl:''
+                },
+                {
+                    id:'18',
+                    originalText:'Big story out that the FBI ignored tens of thousands of Crooked Hillary Emails, many of which are REALLY BAD. Also gave false election info. I feel sure that we will soon be getting to the bottom of all of this corruption. At some point I may have to get involved!',
+                    translateText:'很大的故事说FBI忽略了成千上万的弯曲的希拉里电子邮件，其中许多都是真的很糟糕。 还提供了错误的选举信息。 我确信我们很快就会陷入所有腐败的底层。 在某些时候，我可能需要参与其中！',
+                    imgUrl:''
+                },
+                {
+                    id:'17',
+                    originalText:'.@LindseyGrahamSC  “Every President deserves an Attorney General they have confidence in. I believe every President has a right to their Cabinet, these are not lifetime appointments. You serve at the pleasure of the President.”',
+                    translateText:'。@ LindseyGrahamSC“每位总统都值得他们有信心的司法部长。我相信每位总统都有权获得内阁，这些不是终身任命。 你是在总统的陪伴下服务的。“',
+                    imgUrl:''
+                },
+                {
+                    id:'16',
+                    originalText:'Jeff Sessions said he wouldn’t allow politics to influence him only because he doesn’t understand what is happening underneath his command position. Highly conflicted Bob Mueller and his gang of 17 Angry Dems are having a field day as real corruption goes untouched. No Collusion!',
+                    translateText:'杰夫塞申斯说他不会让政治影响他只是因为他不明白他的指挥位置下发生了什么。 高度冲突的鲍勃穆勒和他的17个愤怒的民主团伙正在进行实地日，因为真正的腐败没有受到影响。 没有勾结！',
+                    imgUrl:''
+                },
+                {
+                    id:'15',
+                    originalText:'Michaels Cohen’s attorney clarified the record, saying his client does not know if President Trump knew about the Trump Tower meeting (out of which came nothing!). The answer is that I did NOT know about the meeting. Just another phony story by the Fake News Media!',
+                    translateText:'Michaels Cohen的律师澄清了这一记录，称他的客户不知道特朗普总统是否知道特朗普大厦会议（其中没有任何结果！）。 答案是我不知道会议。 只是假新闻媒体的另一个虚假故事！',
+                    imgUrl:''
+                },
+                {
                     id:'14',
                     originalText:'Happy birthday Vince, you are truly one of the greats!',
                     translateText:'文斯生日快乐，你真是伟人之一！',
