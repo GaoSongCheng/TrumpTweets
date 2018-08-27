@@ -15,8 +15,7 @@ window.onload = function () {
                     translateText:'“主流媒体试图重写历史，以颂扬奥巴马的特朗普成就。 自特朗普总统上任以来，经济蓬勃发展。 经济越强劲，他的批评者就越绝望。 自大萧条以来，O的复苏最为疲软。“@WashTimes',
                     imgUrl:'',
                     date:'2018-08-26'
-                },                
-                
+                },
                 {
                     originalText:'Fantastic numbers on consumer spending released on Friday. Stock Market hits all time high!',
                     translateText:'周五公布的消费者支出数据非常好。 股市创下历史新高！',
