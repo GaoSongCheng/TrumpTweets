@@ -1,0 +1,26 @@
+{
+  "name": "TrumpTweets",
+  "version": "1.0.0",
+  "description": "A website that forwards Trump's tweets to people who cannot use Twitter.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://GaoSongCheng:gsc199387@github.com/GaoSongCheng/TrumpTweets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaoSongCheng/TrumpTweets/issues"
+  },
+  "homepage": "https://github.com/GaoSongCheng/TrumpTweets#readme",
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
