@@ -3,13 +3,66 @@ window.onload = function () {
         el: '#container',
         data: {
             temp:{
-                id:'',
                 originalText:'',
                 translateText:'',
                 imgUrl:'',
                 date:'2018-08-26'
             },
             content:[
+                {
+                    originalText:'.@FLOTUS Melania and I were honored to welcome the President of the Republic of Kenya, @UKenyatta and Mrs. Margaret Kenyatta to the @WhiteHouse today!',
+                    translateText:'。@ FLOTUS Melania和我很荣幸今天欢迎肯尼亚共和国总统@UKenyatta和Margaret Kenyatta女士来到@WhiteHouse！',
+                    imgUrl:'https://pbs.twimg.com/ext_tw_video_thumb/1034200698483879936/pu/img/fs-Bp7FrVNyo2XW7.jpg',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'United States-Mexico Trade Agreement: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-phone-call-president-pena-nieto-mexico-united-states-mexico-trade-agreement/ …',
+                    translateText:'美国 - 墨西哥贸易协定：https：//www.whitehouse.gov/briefings-statements/remarks-president-trump-phone-call-president-pena-nieto-mexico-united-states-mexico-trade-agreement/ ...',
+                    imgUrl:'https://pbs.twimg.com/ext_tw_video_thumb/1034141047960600577/pu/img/20IBvfWwdi5gZ2ZD.jpg',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'Governor Doug Ducey of Arizona is doing a great job. It would be really nice to show your support tomorrow by voting for him in Tuesdays Primary. Doug is strong on Crime, the Border, and our Second Amendment. Loves our Military & our Vets. He has my full and complete Endorsement.',
+                    translateText:'亚利桑那州州长Doug Ducey表现出色。 明天通过在周二小学投票支持他，显示你的支持真的很不错。 道格在犯罪，边界和我们的第二修正案上表现出色。 爱我们的军队和我们的兽医。 他有我完整而完整的认可。',
+                    imgUrl:'',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'Congressman Ron DeSantis is a special person who has done an incredible job. He is running in Tuesdays Primary for Governor of Florida….Strong on Crime, Borders and wants Low Taxes. He will be a great Governor and has my full and total Endorsement!',
+                    translateText:'国会议员Ron DeSantis是一位做出了令人难以置信的工作的特殊人物。 他正在佛罗里达州州长的星期二小学... ...强烈的犯罪，边界，并希望低税。 他将是一位伟大的州长，并得到我的全面和全面的支持！',
+                    imgUrl:'',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'Rick Scott of Florida is doing a fantastic job as Governor. Jobs are pouring into the State and its economic health is better than ever before. He is strong on Crime, Borders, and loves our Military and Vets. Vote for Rick on Tuesday!',
+                    translateText:'佛罗里达州的里克斯科特作为州长做得非常出色。 乔布斯涌入国家，其经济健康状况比以往任何时候都好。 他在犯罪，边界上很强大，并且热爱我们的军队和兽医。 星期二投票给瑞克！',
+                    imgUrl:'',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'A big deal looking good with Mexico!',
+                    translateText:'对墨西哥来说很不错！',
+                    imgUrl:'',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'The Fake News Media worked hard to get Tiger Woods to say something that he didn’t want to say. Tiger wouldn’t play the game - he is very smart. More importantly, he is playing great golf again!',
+                    translateText:'假新闻媒体努力让老虎伍兹说出一些他不想说的话。 老虎不会参加比赛 - 他非常聪明。 更重要的是，他再次打出了高尔夫球！',
+                    imgUrl:'',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'Thank you to the great @JimBrownNFL32, perhaps the greatest running back of all time, for your wonderful words and support. Since our meeting in New York, African-American UNEMPLOYMENT has reached the LOWEST LEVEL IN HISTORY. You get it!',
+                    translateText:'感谢伟大的@ JimBrownNFL32，也许是有史以来最伟大的跑步，感谢您的精彩言辞和支持。 自从我们在纽约开会以来，非裔美国人的失业率达到了历史最低水平。 你懂了！',
+                    imgUrl:'',
+                    date:'2018-08-27'
+                },
+                {
+                    originalText:'Over 90% approval rating for your all time favorite (I hope) President within the Republican Party and 52% overall. This despite all of the made up stories by the Fake News Media trying endlessly to make me look as bad and evil as possible. Look at the real villains please!',
+                    translateText:'超过90％的支持率是你所有人最喜欢（我希望）共和党内的总统和52％的总体。 尽管假新闻媒体所做的所有编曲故事都在无休止地试图让我看起来尽可能地变坏和邪恶。 请看真正的恶棍！',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
                 {
                     originalText:'“Mainstream Media tries to rewrite history to credit Obama for Trump accomplishments. Since President Trump took office, the economy is booming. The stronger the economy gets, the more desperate his critics are. O had weakest recovery since Great Depression.” @WashTimes',
                     translateText:'“主流媒体试图重写历史，以颂扬奥巴马的特朗普成就。 自特朗普总统上任以来，经济蓬勃发展。 经济越强劲，他的批评者就越绝望。 自大萧条以来，O的复苏最为疲软。“@WashTimes',
