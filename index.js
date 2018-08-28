@@ -12,13 +12,13 @@ window.onload = function () {
                 {
                     originalText:'.@FLOTUS Melania and I were honored to welcome the President of the Republic of Kenya, @UKenyatta and Mrs. Margaret Kenyatta to the @WhiteHouse today!',
                     translateText:'。@ FLOTUS Melania和我很荣幸今天欢迎肯尼亚共和国总统@UKenyatta和Margaret Kenyatta女士来到@WhiteHouse！',
-                    imgUrl:'https://pbs.twimg.com/ext_tw_video_thumb/1034200698483879936/pu/img/fs-Bp7FrVNyo2XW7.jpg',
+                    imgUrl:'./img/tweets-img/13.jpg',
                     date:'2018-08-27'
                 },
                 {
                     originalText:'United States-Mexico Trade Agreement: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-phone-call-president-pena-nieto-mexico-united-states-mexico-trade-agreement/ …',
                     translateText:'美国 - 墨西哥贸易协定：https：//www.whitehouse.gov/briefings-statements/remarks-president-trump-phone-call-president-pena-nieto-mexico-united-states-mexico-trade-agreement/ ...',
-                    imgUrl:'https://pbs.twimg.com/ext_tw_video_thumb/1034141047960600577/pu/img/20IBvfWwdi5gZ2ZD.jpg',
+                    imgUrl:'./img/tweets-img/12.jpg',
                     date:'2018-08-27'
                 },
                 {
