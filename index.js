@@ -10,6 +10,66 @@ window.onload = function () {
             },
             content:[
                 {
+                    originalText:'Add the 2026 World Cup to our long list of accomplishments!',
+                    translateText:'将2026年世界杯加入我们的长期成就列表中！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'Report just out: “China hacked Hillary Clinton’s private Email Server.” Are they sure it wasn’t Russia (just kidding!)? What are the odds that the FBI and DOJ are right on top of this? Actually, a very big story. Much classified information!',
+                    translateText:'报告刚刚说：“中国攻击希拉里克林顿的私人电子邮件服务器。”他们确定不是俄罗斯（只是开玩笑！）？ FBI和DOJ在这方面的优势是什么？ 实际上，这是一个非常大的故事。 很多机密信息！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'Congratulations to Governor Rick Scott of Florida on his conclusive Republican Primary Win. He will be a great Senator!',
+                    translateText:'恭喜佛罗里达州州长里克斯科特在他的共和党初选胜利中获胜。 他将是一位伟大的参议员！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'Such a fantastic win for Ron DeSantis and the people of the Great State of Florida. Ron will be a fantastic Governor. On to November!',
+                    translateText:'对于Ron DeSantis和佛罗里达州的人民来说，这是一场如此美妙的胜利。 罗恩将成为一名出色的州长。 到11月！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'“Consumer confidence pops in August to highest level since October 2000”',
+                    translateText:'“8月消费者信心自2000年10月以来达到最高水平”',
+                    imgUrl:'./img/tweets-img/14.jpg',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'....results on “Trump News” are from National Left-Wing Media, very dangerous. Google & others are suppressing voices of Conservatives and hiding information and news that is good. They are controlling what we can & cannot see. This is a very serious situation-will be addressed!',
+                    translateText:'......“特朗普新闻”的结果来自国家左翼媒体，非常危险。 谷歌和其他人正在压制保守党的声音，并隐藏信息和新闻。 他们控制着我们能够和不能看到的东西。 这是一个非常严重的情况 - 将得到解决！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'Google search results for “Trump News” shows only the viewing/reporting of Fake News Media. In other words, they have it RIGGED, for me & others, so that almost all stories & news is BAD. Fake CNN is prominent. Republican/Conservative & Fair Media is shut out. Illegal? 96% of....',
+                    translateText:'“特朗普新闻”的谷歌搜索结果仅显示了对新闻媒体的观看/报道。 换句话说，对于我和其他人来说，他们已经拥有了RIGGED，因此几乎所有的故事和新闻都很糟糕。 假CNN很突出。 共和党/保守派和博览会媒体被拒之门外。 非法？ 96％....',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'I smile at Senators and others talking about how good free trade is for the U.S. What they don’t say is that we lose Jobs and over 800 Billion Dollars a year on really dumb Trade Deals....and these same countries Tariff us to death. These lawmakers are just fine with this!',
+                    translateText:'我对参议员和其他人谈论美国的自由贸易有多好，他们对此表示不满意的是，我们每年因真正愚蠢的贸易交易而失去乔布斯和超过800亿美元......而这些国家则对我们施以压力。 死亡。 这些立法者对此很好！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'NASDAQ has just gone above 8000 for the first time in history!',
+                    translateText:'纳斯达克有史以来第一次超过8000！',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
+                    originalText:'“President Trump has done more for minority groups in this country than any president in decades.”  @LouDobbs',
+                    translateText:'“特朗普总统在这个国家为少数民族团体做的事情比几十年来任何总统都要多。”@路博布斯',
+                    imgUrl:'',
+                    date:'2018-08-28'
+                },
+                {
                     originalText:'.@FLOTUS Melania and I were honored to welcome the President of the Republic of Kenya, @UKenyatta and Mrs. Margaret Kenyatta to the @WhiteHouse today!',
                     translateText:'。@ FLOTUS Melania和我很荣幸今天欢迎肯尼亚共和国总统@UKenyatta和Margaret Kenyatta女士来到@WhiteHouse！',
                     imgUrl:'./img/tweets-img/13.jpg',
