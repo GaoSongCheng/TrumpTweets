@@ -10,6 +10,102 @@ window.onload = function () {
             },
             content:[
                 {
+                    originalText:'#StopTheBias',
+                    translateText:'＃停止偏见',
+                    imgUrl:'./img/tweets-img/16.jpg',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'Watch: Kanye West Says Trump Wants to Be the ‘Greatest President’ for Black Americans http://bit.ly/2MASw7G  via @BreitbartNews',
+                    translateText:'观看：Kanye West表示特朗普希望成为美国黑人的“最伟大的总统”http://bit.ly/2MASw7G来自@BreitbartNews',
+                    imgUrl:'./img/tweets-img/15.jpg',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'...considerable aid, including money, fuel, fertilizer and various other commodities. This is not helpful! Nonetheless, the President believes that his relationship with Kim Jong Un is a very good and warm one, and there is no reason at this time to be spending large amounts...',
+                    translateText:'相当多的援助，包括金钱，燃料，化肥和各种其他商品。 这没用！ 尽管如此，总统认为他与金正恩的关系是一个非常好的和温暖的关系，而且目前没有理由花大笔钱......',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'President Donald J. Trump feels strongly that North Korea is under tremendous pressure from China because of our major trade disputes with the Chinese Government. At the same time, we also know that China is providing North Korea with...',
+                    translateText:'由于我们与中国政府的重大贸易纠纷，总统唐纳德·J·特朗普强烈认为朝鲜正面临来自中国的巨大压力。 与此同时，我们也知道中国向朝鲜提供......',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'How the hell is Bruce Ohr still employed at the Justice Department? Disgraceful!  Witch Hunt!',
+                    translateText:'布鲁斯·奥尔怎么还在司法部工作？ 可耻！ 捕杀女巫！',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'Consumer Confidence Index, just out, is the HIGHEST IN 18 YEARS! Also, GDP revised upward to 4.2 from 4.1. Our country is doing great!',
+                    translateText:'消费者信心指数刚刚出来，是18年来最高的！ 此外，GDP从4.1上调至4.2。 我们国家做得很好！',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'White House Counsel Don McGahn will be leaving his position in the fall, shortly after the confirmation (hopefully) of Judge Brett Kavanaugh to the United States Supreme Court. I have worked with Don for a long time and truly appreciate his service!',
+                    translateText:'白宫顾问Don McGahn将于秋季离开他的位置，不久之后，法官Brett Kavanaugh向美国最高法院确认（希望）。 我和Don一起工作了很长时间，真的很感谢他的服务！',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'Martha McSally is an extraordinary woman. She was a very talented fighter jet pilot and is now a highly respected member of Congress. She is Strong on Crime, the Border and our  under siege 2nd Amendment. Loves our Military and our Vets. Has my total and complete Endorsement!',
+                    translateText:'玛莎麦莎莉是一个非凡的女人。 她是一位非常有才华的战斗机飞行员，现在是一位备受尊重的国会议员。 她在犯罪，边界以及围困第二修正案方面表现出色。 爱我们的军队和我们的兽医。 有我的全部和完整的代言！',
+                    imgUrl:'',
+                    date:'2018-08-26'
+                },
+                {
+                    originalText:'When you see “anonymous source,” stop reading the story, it is fiction!',
+                    translateText:'当你看到“匿名来源”，停止阅读故事，这是虚构的！',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'“Anonymous Sources are really starting to BURN the media.” @FoxNews The fact is that many anonymous sources don’t even exist. They are fiction made up by the Fake News reporters. Look at the lie that Fake CNN is now in. They got caught red handed! Enemy of the People!',
+                    translateText:'匿名来源真的开始烧掉媒体了。”@ FoxNews事实上，许多匿名来源甚至都不存在。 他们是假新闻记者编写的小说。 看看假CNN现在所处的谎言。他们被抓得红了！ 人民的敌人！',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'Big Election Wins last night! The Republican Party will MAKE AMERICA GREAT AGAIN! Actually, it is happening faster than anybody thought possible! It is morphing into KEEP AMERICA GREAT!',
+                    translateText:'大选昨晚赢了！ 共和党将使美国再次伟大！ 实际上，它发生的速度比任何人想象的要快！ 它正在变成美国保持伟大！',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'“Hillary Clinton and the DNC paid for information from the Russian government to use against her government - there’s no doubt about that!” @TuckerCarlson',
+                    translateText:'“希拉里克林顿和DNC支付了俄罗斯政府提供的反对她政府的信息 - 毫无疑问！”@TuckerCarlson',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'“The Obama people did something that’s never been done...They spied on a rival presidential campaign. Would it be OK if Trump did it next? I am losing faith that our system is on the level. I’m beginning to think it is rotten & corrupt. Scary stuff Obama did.” @TuckerCarlson  DOJ',
+                    translateText:'“奥巴马人民做了一些从未做过的事情......他们在竞争对手的总统竞选活动中进行了间谍活动。 如果特朗普下次做到这一点会不会好的？ 我不相信我们的系统在水平上。 我开始认为它腐烂和腐败。 奥巴马做的可怕的事情。“@TuckerCarlson DOJ',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'Not only did Congressman Ron DeSantis easily win the Republican Primary, but his opponent in November is his biggest dream....a failed Socialist Mayor named Andrew Gillum who has allowed crime & many other problems to flourish in his city. This is not what Florida wants or needs!',
+                    translateText:'国会议员Ron DeSantis不仅轻松赢得了共和党初选，而且11月他的对手是他最大的梦想......一位失败的社会党市长安德鲁·吉卢姆（Andrew Gillum）让犯罪和许多其他问题在他的城市蓬勃发展。 这不是佛罗里达州想要或需要的！',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'Martha McSally, running in the Arizona Primary for U.S. Senate, was endorsed by rejected Senator Jeff Flake....and turned it down - a first! Now Martha, a great U.S. Military fighter jet pilot and highly respected member of Congress, WINS BIG. Congratulations, and on to November!',
+                    translateText:'亚马逊小学为美国参议院竞选的Martha McSally被拒绝的参议员杰夫弗莱克认可......然后拒绝了 - 第一个！ 现在玛莎是一位伟大的美国军事战斗机飞行员和备受尊敬的国会议员，赢得大奖。 恭喜，到11月！',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
+                    originalText:'Hillary Clinton’s Emails, many of which are Classified Information, got hacked by China. Next move better be by the FBI & DOJ or, after all of their other missteps (Comey, McCabe, Strzok, Page, Ohr, FISA, Dirty Dossier etc.), their credibility will be forever gone!',
+                    translateText:'希拉里克林顿的电子邮件，其中许多是分类信息，被中国黑客攻击。 接下来的行动更好的是联邦调查局和司法部，或者在他们所有其他失误之后（Comey，McCabe，Strzok，Page，Ohr，FISA，Dirty Dossier等），他们的信誉将永远消失！',
+                    imgUrl:'',
+                    date:'2018-08-29'
+                },
+                {
                     originalText:'Add the 2026 World Cup to our long list of accomplishments!',
                     translateText:'将2026年世界杯加入我们的长期成就列表中！',
                     imgUrl:'',
