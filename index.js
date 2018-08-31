@@ -13,19 +13,19 @@ window.onload = function () {
                     originalText:'#StopTheBias',
                     translateText:'＃停止偏见',
                     imgUrl:'./img/tweets-img/16.jpg',
-                    date:'2018-08-26'
+                    date:'2018-08-30'
                 },
                 {
                     originalText:'Watch: Kanye West Says Trump Wants to Be the ‘Greatest President’ for Black Americans http://bit.ly/2MASw7G  via @BreitbartNews',
                     translateText:'观看：Kanye West表示特朗普希望成为美国黑人的“最伟大的总统”http://bit.ly/2MASw7G来自@BreitbartNews',
                     imgUrl:'./img/tweets-img/15.jpg',
-                    date:'2018-08-26'
+                    date:'2018-08-30'
                 }, 
                 {
                     originalText:'Consumer Confidence Index, just out, is the HIGHEST IN 18 YEARS! Also, GDP revised upward to 4.2 from 4.1. Our country is doing great!',
                     translateText:'消费者信心指数刚刚出来，是18年来最高的！ 此外，GDP从4.1上调至4.2。 我们国家做得很好！',
                     imgUrl:'',
-                    date:'2018-08-26'
+                    date:'2018-08-30'
                 },                          
                 {
                     originalText:'Add the 2026 World Cup to our long list of accomplishments!',
