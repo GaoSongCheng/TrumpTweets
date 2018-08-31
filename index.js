@@ -20,19 +20,7 @@ window.onload = function () {
                     translateText:'观看：Kanye West表示特朗普希望成为美国黑人的“最伟大的总统”http://bit.ly/2MASw7G来自@BreitbartNews',
                     imgUrl:'./img/tweets-img/15.jpg',
                     date:'2018-08-26'
-                },
-                {
-                    originalText:'...considerable aid, including money, fuel, fertilizer and various other commodities. This is not helpful! Nonetheless, the President believes that his relationship with Kim Jong Un is a very good and warm one, and there is no reason at this time to be spending large amounts...',
-                    translateText:'相当多的援助，包括金钱，燃料，化肥和各种其他商品。 这没用！ 尽管如此，总统认为他与金正恩的关系是一个非常好的和温暖的关系，而且目前没有理由花大笔钱......',
-                    imgUrl:'',
-                    date:'2018-08-26'
-                },
-                {
-                    originalText:'President Donald J. Trump feels strongly that North Korea is under tremendous pressure from China because of our major trade disputes with the Chinese Government. At the same time, we also know that China is providing North Korea with...',
-                    translateText:'由于我们与中国政府的重大贸易纠纷，总统唐纳德·J·特朗普强烈认为朝鲜正面临来自中国的巨大压力。 与此同时，我们也知道中国向朝鲜提供......',
-                    imgUrl:'',
-                    date:'2018-08-26'
-                },
+                },                
                 {
                     originalText:'How the hell is Bruce Ohr still employed at the Justice Department? Disgraceful!  Witch Hunt!',
                     translateText:'布鲁斯·奥尔怎么还在司法部工作？ 可耻！ 捕杀女巫！',
@@ -98,22 +86,10 @@ window.onload = function () {
                     translateText:'亚马逊小学为美国参议院竞选的Martha McSally被拒绝的参议员杰夫弗莱克认可......然后拒绝了 - 第一个！ 现在玛莎是一位伟大的美国军事战斗机飞行员和备受尊敬的国会议员，赢得大奖。 恭喜，到11月！',
                     imgUrl:'',
                     date:'2018-08-29'
-                },
-                {
-                    originalText:'Hillary Clinton’s Emails, many of which are Classified Information, got hacked by China. Next move better be by the FBI & DOJ or, after all of their other missteps (Comey, McCabe, Strzok, Page, Ohr, FISA, Dirty Dossier etc.), their credibility will be forever gone!',
-                    translateText:'希拉里克林顿的电子邮件，其中许多是分类信息，被中国黑客攻击。 接下来的行动更好的是联邦调查局和司法部，或者在他们所有其他失误之后（Comey，McCabe，Strzok，Page，Ohr，FISA，Dirty Dossier等），他们的信誉将永远消失！',
-                    imgUrl:'',
-                    date:'2018-08-29'
-                },
+                },               
                 {
                     originalText:'Add the 2026 World Cup to our long list of accomplishments!',
                     translateText:'将2026年世界杯加入我们的长期成就列表中！',
-                    imgUrl:'',
-                    date:'2018-08-28'
-                },
-                {
-                    originalText:'Report just out: “China hacked Hillary Clinton’s private Email Server.” Are they sure it wasn’t Russia (just kidding!)? What are the odds that the FBI and DOJ are right on top of this? Actually, a very big story. Much classified information!',
-                    translateText:'报告刚刚说：“中国攻击希拉里克林顿的私人电子邮件服务器。”他们确定不是俄罗斯（只是开玩笑！）？ FBI和DOJ在这方面的优势是什么？ 实际上，这是一个非常大的故事。 很多机密信息！',
                     imgUrl:'',
                     date:'2018-08-28'
                 },
