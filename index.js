@@ -6,9 +6,15 @@ window.onload = function () {
                 originalText:'',
                 translateText:'',
                 imgUrl:'',
-                date:'2018-08-26'
+                date:'2018-09-01'
             },
             content:[
+		 {
+                originalText:"I love Canada, but they've taken advantage of our Country for many years!",
+                translateText:'我爱加拿大，但他们多年来一直利用我们的国家！',
+                imgUrl:'',
+                date:'2018-09-01'
+            	},
                 {
                     originalText:'#StopTheBias',
                     translateText:'＃停止偏见',
