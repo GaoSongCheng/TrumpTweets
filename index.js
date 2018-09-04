@@ -9,6 +9,12 @@ window.onload = function () {
                 date:'2018-09-01'
             },
             content:[
+		    {
+                originalText:'The Worker in America is doing better than ever before. Celebrate Labor Day!',
+                translateText:'美国工人比以往任何时候都做得更好。 庆祝劳动节！',
+                imgUrl:'',
+                date:'2018-09-03'
+            },
 		 {
                 originalText:"I love Canada, but they've taken advantage of our Country for many years!",
                 translateText:'我爱加拿大，但他们多年来一直利用我们的国家！',
